@@ -40,3 +40,18 @@ This project will investigate the Wisconsin Breast Cancer dataset. The following
 how-to-get-value-counts-for-multiple-columns-at-once-in-pandas-dataframe - Get the value counts for multiple columns at once.
 - Lecture notes.
 
+### Classifiers
+- https://www.researchgate.net/publication/349507044_An_Evaluation_of_the_Wisconsin_Breast_Cancer_Dataset_using_Ensemble_Classifiers_and_RFE_Feature_Selection_Technique -The study reviewed for XGBoost and Random Forest.
+- https://en.wikipedia.org/wiki/Gradient_boosting - Definition of XGBoost.
+- https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7 - Reviewing the process of how the data is validated.
+- https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7 - Image
+- https://en.wikipedia.org/wiki/Random_forest - Definiition of Random Forest.
+- https://www.ibm.com/cloud/learn/random-forest#toc-benefits-a-VrBNAC3d - Understanding the characteristics of Random Forest.
+- https://www.youtube.com/watch?v=v6VJ2RO66Ag - Get more information on Random Forest. 
+- Image - https://www.ibm.com/cloud/learn/random-forest#toc-benefits-a-VrBNAC3d
+
+
+
+
+
+
