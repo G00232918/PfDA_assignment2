@@ -17,12 +17,12 @@ This project will investigate the Wisconsin Breast Cancer dataset. The following
 - As a suggestion, you could use Pandas, Seaborn, SKLearn, etc. to perform your analysis. 
 - Please use GitHub to demonstrate research, progress and consistency
 
-### Overview and background
+### 1. Overview and background
 
 #### Sources -
 - The dataset summary.
 
-### Analysis and review
+### 2. Review of Classifiers and Performance
 - Read in the csv file and se the headers to have shorter names.
 - Check is there any null values.
 - Show the first 10 rows to ensure the data is correct.
@@ -40,7 +40,7 @@ This project will investigate the Wisconsin Breast Cancer dataset. The following
 how-to-get-value-counts-for-multiple-columns-at-once-in-pandas-dataframe - Get the value counts for multiple columns at once.
 - Lecture notes.
 
-### Classifiers
+### Review of Classifiers and Performance
 - https://www.researchgate.net/publication/349507044_An_Evaluation_of_the_Wisconsin_Breast_Cancer_Dataset_using_Ensemble_Classifiers_and_RFE_Feature_Selection_Technique -The study reviewed for XGBoost and Random Forest.
 - https://en.wikipedia.org/wiki/Gradient_boosting - Definition of XGBoost.
 - https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7 - Reviewing the process of how the data is validated.
@@ -50,6 +50,32 @@ how-to-get-value-counts-for-multiple-columns-at-once-in-pandas-dataframe - Get t
 - https://www.youtube.com/watch?v=v6VJ2RO66Ag - Get more information on Random Forest. 
 - Image - https://www.ibm.com/cloud/learn/random-forest#toc-benefits-a-VrBNAC3d
 
+### 3. Classifier applied
+- https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761 - Get examples of classfication and regression problems. 
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.value_counts.html - Value count reference.
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.hist.html - PLotting histograms.
+
+### 4. Statisical Analysis
+- Check the frequency class
+- Percentage of frequency distribution class
+- Histograms for distribution
+- Correlation
+- Heatmap
+
+#### Sources
+- https://pandas.pydata.org/docs/user_guide/visualization.html - Histogram reference
+- https://www.geeksforgeeks.org/how-to-create-a-seaborn-correlation-heatmap-in-python/ - Heatmap reference code.
+
+### Machine Learning - KNN
+
+### 51 Setting the target 
+- Why I picked KNN.
+- Setting the target variable
+- Splitting the target
+- Get the shape of the split
+
+#### Sources
+- https://h2o.ai/wiki/target-variable/ - Setting the target and the reasoning. 
 
 
 
