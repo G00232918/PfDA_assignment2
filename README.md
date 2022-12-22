@@ -68,7 +68,7 @@ how-to-get-value-counts-for-multiple-columns-at-once-in-pandas-dataframe - Get t
 
 ### Machine Learning - KNN
 
-### 51 Setting the target 
+### 5.1 Setting the target 
 - Why I picked KNN.
 - Setting the target variable
 - Splitting the target
@@ -76,6 +76,18 @@ how-to-get-value-counts-for-multiple-columns-at-once-in-pandas-dataframe - Get t
 
 #### Sources
 - https://h2o.ai/wiki/target-variable/ - Setting the target and the reasoning. 
+
+### 5.2 Elbow method
+- Give the reasoning why to use the method.
+- Explain how the Elbow method works
+
+#### Sources
+- https://www.scikit-yb.org/en/latest/api/cluster/elbow.html#:~:text=The%20elbow%20method%20runs%20k,point%20to%20its%20assigned%20center. - Elbow method explanation. 
+
+### 5.3 Lazy learners vs Eager learners
+
+#### Sources 
+- https://www.i2tutorials.com/why-knn-algorithm-is-called-as-lazy-learner/ - Lazy learner description. 
 
 
 
