@@ -127,11 +127,18 @@ how-to-get-value-counts-for-multiple-columns-at-once-in-pandas-dataframe - Get t
 ### Sources
 - https://scikit-learn.org/stable/modules/naive_bayes.html - Reference code
 
-## Comparing results of classifiers
+## 5. Comparing results of classifiers
 
-### Comparing visually 
+### 5.1 Comparing visually 
 - Bar chart with matplotlib
 
 ### Source
 - https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm - Reference code.
 
+### 5.2 Comparing Results
+- Commentary provided on the results.
+
+## 6. How this dataset counld be extended
+
+### Source
+- https://towardsdatascience.com/top-3-python-packages-to-generate-synthetic-data-33a351a5de0c
